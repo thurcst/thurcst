@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 - I’m currently working on @RoboCIn as researcher and at V-LAB UFPE as Mobile Dev.
 - Actualy learning Data Science and Mobile Dev, I love Python!
-- You can reach me: @arthur_costx on Instagram!
+- You can reach me: @_arthur.anibal on Instagram!
 - Fun fact: I know more than 2000 musics. (Really)
